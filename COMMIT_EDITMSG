@@ -1,0 +1,10 @@
+Integrate real OCR and face biometrics into the voting system
+
+Implement client-side OCR using Tesseract.js and face detection/comparison using face-api.js to enable a fully functional biometric voting prototype.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 8d76c479-a54b-483a-981a-4ae0ff281d57
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: e8fcad7a-2ce7-4f01-b05a-011d0eb35553
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/2036bfb0-c1c5-4ebf-9f0c-1933b5d4fa4a/8d76c479-a54b-483a-981a-4ae0ff281d57/qEhoMD5
+Replit-Helium-Checkpoint-Created: true
